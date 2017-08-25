@@ -1,3 +1,13 @@
+/*
+  Use a while loop Write a program to repeatedly do the following:
+  1. Ask for a number, and
+  2. print out a message that says what number you entered, and the square of
+  that number (for example, 5 squared is 25).
+  3. Quit when the number 0 is entered.
+  (Remember that the readLine and println expressions must be inside curly braces,
+  {}).
+ */
+
 import scala.io.StdIn
 
 object WhileLoop {
