@@ -1,0 +1,12 @@
+target
+*.class
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# Local
+.DS_Store
