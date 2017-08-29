@@ -22,5 +22,8 @@ object WhileLoop {
     } while (input != 0)
 
     println("\nTHE END!")
+
+    // When entering 0 it still considers it before exiting.
+    // Should be fixed.
   }
 }
