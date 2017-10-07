@@ -12,7 +12,7 @@ import scala.io.StdIn
 
 object WhileLoop {
   def main(args: Array[String]): Unit = {
-    var input = 0
+    var input = 0 // Would like to use val instead
 
     do {
       input = StdIn.readLine("Give me a number (0 to exit): ").toInt
